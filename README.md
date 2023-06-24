@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasfi Ölmez</h1>
 <h3 align="center">A passionate junior backend developer from Türkiye,İstanbul</h3>
 
-<p align="left"> <a href="https://twitter.com/vasfiolz" target="blank"><img src="https://img.shields.io/twitter/follow/vasfiolz?logo=twitter&style=for-the-badge" alt="vasfiolz" /></a> </p>
-
 - 🌱 I’m currently learning **asp.net**
 
 - 📫 How to reach me **vasfiolmez0@gmail.com**
